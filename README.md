@@ -1,4 +1,5 @@
 <h1>Meu Filme</h1>
+<p>🚀🚀Ainda em fase beta, em versão de teste e implementação de novas tecnologias.🚀🚀</p>
 <p>Meu Filme é um projeto que visa exibir informações sobre filmes e séries de todo o mundo. O objetivo é fornecer aos usuários uma plataforma simples e intuitiva para encontrar informações sobre seus filmes e séries favoritos.</p>
 
 <h2>Funcionalidades</h2>
