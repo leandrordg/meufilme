@@ -1,5 +1,3 @@
-<div class="markdown prose w-full break-words dark:prose-invert light">
-
 <h1>Meu Filme</h1>
 <p>Meu Filme é um projeto que visa exibir informações sobre filmes e séries de todo o mundo. O objetivo é fornecer aos usuários uma plataforma simples e intuitiva para encontrar informações sobre seus filmes e séries favoritos.</p>
 
@@ -37,5 +35,3 @@
 
 <h2>Autor</h2>
 <p>Meu Filme foi criado por mim, Leandro Rodrigues. Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato através do email lj251004@gmail.com.</p>
-
-</div>
