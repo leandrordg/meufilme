@@ -1,38 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div class="markdown prose w-full break-words dark:prose-invert light">
 
-## Getting Started
+<h1>Meu Filme</h1>
+<p>Meu Filme é um projeto que visa exibir informações sobre filmes e séries de todo o mundo. O objetivo é fornecer aos usuários uma plataforma simples e intuitiva para encontrar informações sobre seus filmes e séries favoritos.</p>
 
-First, run the development server:
+<h2>Funcionalidades</h2>
+<ul>
+  <li>Busca por título, gênero, ano de lançamento e outros filtros</li>
+  <li>Exibição de informações detalhadas sobre cada título, incluindo sinopse, elenco, diretor, classificação e muito mais</li>
+  <li>Possibilidade de adicionar títulos à lista de favoritos e de assistir mais tarde</li>
+  <li>Avaliação de títulos e visualização de avaliações de outros usuários</li>
+  <li>Sugestões de títulos relacionados com base no histórico de visualização e nas avaliações do usuário</li>
+</ul>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+<h2>Tecnologias utilizadas</h2>
+<p>O Meu Filme foi desenvolvido utilizando as seguintes tecnologias:</p>
+<ul>
+  <li>Next.js</li>
+  <li>TMDB API</li>
+</ul>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<h2>Como utilizar</h2>
+<p>Para utilizar o Meu Filme, basta acessar a página principal do projeto e buscar pelo título que você deseja encontrar informações. Você pode utilizar os filtros para refinar a busca e encontrar títulos específicos.</p>
+<p>Ao clicar em um título, você terá acesso a informações detalhadas sobre o mesmo, incluindo sinopse, elenco, diretor, classificação e muito mais. Você também pode adicionar o título à sua lista de favoritos ou de assistir mais tarde e avaliar o título.</p>
+<p>Além disso, o Meu Filme também sugere títulos relacionados com base no histórico de visualização e nas avaliações do usuário.</p>
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+<h2>Contribuições</h2>
+<p>Se você deseja contribuir com o projeto, basta seguir os passos abaixo:</p>
+<ol>
+  <li>Faça um fork do projeto</li>
+  <li>Clone o fork em seu ambiente local</li>
+  <li>Crie uma nova branch para a sua contribuição</li>
+  <li>Faça as alterações desejadas</li>
+  <li>Faça o commit das alterações e faça o push para o seu fork</li>
+  <li>Crie um pull request para a branch principal do projeto</li>
+</ol>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<h2>Autor</h2>
+<p>Meu Filme foi criado por mim, Leandro Rodrigues. Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato através do email lj251004@gmail.com.</p>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+</div>
